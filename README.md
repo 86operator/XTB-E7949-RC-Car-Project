@@ -22,3 +22,8 @@ Hardwere used;
 Software used;
 OS: Linux (?distro?)
 AI:?
+
+# Mods
+-Mechanica ARM 0.3kg
+-Ability to use Home Assistant 
+-Play Video Games (With dedicated gaming PC)
