@@ -1,10 +1,11 @@
 # XTB-E7949 RC car Project by 86_Operator
+Check the YT channel if you want to see him live
 
 # How to set up
 (Project has not began yet)
 
 # Introduction
-This Project tries to make an AI RC car that is more like an assistant or friend in your day to day life. His role is to help you in any way he can. Whetear that is with your home automaiton (with home assistant) or play SOME video games with you or go outside with him he should be able to do all this.
+(Soon will make one)
 
 
 # Date of the Prodject:
